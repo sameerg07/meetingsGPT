@@ -26,6 +26,6 @@ Accurate Information: The Chatbot uses state-of-the-art GPT language models to g
 **Running the MeetingGPT:**
 Replace openapikey and openapibase url with your azure subscription specific data. Add your .vtt transcript file in the same folder with summarizer.py
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 `python summarizer.py`
