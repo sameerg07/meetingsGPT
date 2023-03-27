@@ -24,7 +24,7 @@ Enhanced Collaboration: The Chatbot improves collaboration by making it easier f
 Accurate Information: The Chatbot uses state-of-the-art GPT language models to generate accurate and concise summaries and answers, providing users with reliable information.
 
 **Running the MeetingGPT:**
-Replace openapikey and openapibase url with your azure subscription specific data.
+Replace openapikey and openapibase url with your azure subscription specific data. Add your .vtt transcript file in the same folder with summarizer.py
 
 `pip install requirements.txt`
 
