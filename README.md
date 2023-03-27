@@ -1,4 +1,4 @@
-# meetingsGPT
+# MeetingGPT
 onestop chatbot solution to answer any questions of your meetings.
 
 **Introduction**:
